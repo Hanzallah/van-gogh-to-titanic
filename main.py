@@ -1,5 +1,5 @@
 """
-# CS-464 Homework 02 - PCA, Regression, and SVM
+# PCA, Regression, and SVM
 # Hanzallah Azim Burney
 """
 
